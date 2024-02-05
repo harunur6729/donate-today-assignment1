@@ -1,0 +1,146 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0;
+}
+.first-section{
+    height: 500px;
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    box-shadow: 10px 10px 10px 10px black;
+}
+.bannar-div{
+    text-align: center;
+    padding-top:5%;
+    display: block;
+    color: white;
+    
+
+}
+.bannar-div h1{
+    font-size: 50px;
+
+}
+.donate-button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange,red,tomato);
+    padding:5px 20px;
+    border-radius: 20px;
+    
+}
+.second-section{
+    text-align: center;
+}
+.amount-parent-div{
+    display: flex;
+   margin-left: 30%;
+   margin-right:30%;
+   text-align: center;
+
+    
+}
+ .second-section .amount-child-div{
+    height: 100px;
+    width: 120px;
+    margin-left: 20px;
+    background-color: antiquewhite;
+}
+#other-amount{
+    border: none;
+    border-bottom: solid 1px rgb(160, 149, 149);
+    text-align: center;
+    width: 1000px;
+    margin-top: 20px;
+    font-size: 30px;
+    margin: 10px 0;
+    opacity: 0.5;
+
+}
+#donate-button2{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,red,tomato);
+    padding: 5px 20px;
+    border-radius: 20px;
+    
+}
+.third-section{
+    text-align: center;
+    margin-top:70px ;
+}
+.donate-plan-item{
+    display: flex;
+
+}
+.donate-plan-item div{
+    
+    margin-left: 20px;
+    background-color: antiquewhite;
+    padding: 30px;
+    text-align: center;
+}
+.fourth-section{
+    display: flex;
+    margin-top: 40px;
+    
+}
+.half-width{
+    width: 50%;
+    margin-left: 60px;
+    
+}
+.half-width img{
+    border-radius: 20px;
+    width: 90%;
+    height: 90%;
+}
+#contribute-button1{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red,tomato);
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+.fifth-section{
+    display: flex;
+    margin-top: 50px;
+}
+#contribute-button2{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red,tomato);
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+.six-section{
+    display: block;
+    text-align: center;
+}
+.subscribe-button{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 60px;
+}
+.subscribe-button #email{
+    background-color: rgb(218, 230, 230);
+    border-radius: 10px;
+    padding: 10px;
+    
+    
+}
+.subscribe-button #subscribe{
+    background-color: red;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Protest Riot', sans-serif;
+
+
